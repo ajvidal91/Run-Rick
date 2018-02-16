@@ -1,0 +1,35 @@
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+
+     box-sizing: border-box; /* IE */
+}
+
+
+*{
+font-family: 'Nunito', sans-serif;
+color: #8F9805
+}
+
+
+
+
+h1{
+  text-align: center;
+}
+
+
+#bridge {
+
+border: 1px solid black;
+height: 600px;
+width: 100%;
+background-image: url(../bridge.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#ricky {
+position: relative;
+}
